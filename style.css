@@ -99,3 +99,45 @@ a.nav-list:hover {
 .footer p {
     margin-bottom: 0px;
 }
+
+.portfolio-images {
+    height: 150px;
+    width: 150px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.cj {
+    width: 150px;
+    position: relative;
+    top: -25px;
+}
+
+.hightide {
+    width: 150px;
+    position: relative;
+    top: -55px;
+}
+
+.ss {
+    width: 150px;
+    position: relative;
+    top: -35px;
+}
+
+.swisk {
+    width: 150px;
+    position: relative;
+    top: -25px;
+}
+
+.titles {
+    z-index: 2;
+    color: white;
+    background-color: gray;
+    padding: 4px 10px 4px 5px;
+    position: absolute;
+    bottom: 0;
+    font-family: 'Dosis', sans-serif;
+}
+
