@@ -141,3 +141,19 @@ a.nav-list:hover {
     font-family: 'Dosis', sans-serif;
 }
 
+.form-labels {
+    font-family: 'Dosis', sans-serif;
+}
+
+.btn-primary {
+    background-color: black;
+}
+
+.btn-primary:hover {
+    background-color: rgb(61, 61, 150);
+}
+
+.form-check {
+    margin-bottom: 20px;
+}
+
